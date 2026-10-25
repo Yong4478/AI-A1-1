@@ -82,6 +82,7 @@ class PromptManager:
         self.file_path = file_path
         self.prompts = self.load_prompts()
 ```
+<img width="535" height="428" alt="image" src="https://github.com/user-attachments/assets/5d1b8b77-62a0-4fc0-8ac8-a134165a384d" />
 
 ### 설명
 
