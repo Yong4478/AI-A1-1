@@ -485,3 +485,10 @@ if __name__ == "__main__":
 이 프로그램은 JSON 파일을 사용하기 때문에 프로그램을 종료해도 데이터가 유지됩니다.
 
 앞으로 검색 기능, 태그 기능, 날짜 기록 기능 등을 추가하면 더 실용적인 프롬프트 관리 도구로 발전시킬 수 있습니다.
+
+
+## 추가된 내용
+
+<img width="535" height="173" alt="image" src="https://github.com/user-attachments/assets/40783926-23ee-469b-ace7-f67f8f507b4b" />
+
+위의 사진을 통해서 github에 readme 파일 뿐만 아니라 json 파일과 함께 올려서 평가자도 프로그램을 같이 확인할 수 있도록 만들었다.
